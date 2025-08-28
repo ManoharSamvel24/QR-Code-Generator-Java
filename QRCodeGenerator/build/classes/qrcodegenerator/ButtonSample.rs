@@ -1,0 +1,2 @@
+qrcodegenerator.ButtonSample
+qrcodegenerator.RoundBorder
