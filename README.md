@@ -5,6 +5,7 @@
 ![ZXing](https://img.shields.io/badge/Library-ZXing-orange?style=flat-square)  
 ![LookAndFeel](https://img.shields.io/badge/UI-FlatLaf-7986cb?style=flat-square)  
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)  
+![IDE](https://img.shields.io/badge/Apache-NetBeans-29B6F6?style=flat-square)
 
 ---
 
@@ -38,10 +39,10 @@ With this application, you can:
 > Replace with your actual images from the app  
 
 📥 **Main Window**  
-![Main Window](images/main-window.png)  
+![Main Window](https://raw.githubusercontent.com/ManoharSamvel24/QR-Code-Generator-Java/refs/heads/main/QRCodeGenerator/outputs/op-1.png)  
 
 📤 **Generated QR Code Example**  
-![QR Example](images/qr-example.png)  
+![QR Example](https://raw.githubusercontent.com/ManoharSamvel24/QR-Code-Generator-Java/refs/heads/main/QRCodeGenerator/outputs/op-2.png)  
 
 ---
 
